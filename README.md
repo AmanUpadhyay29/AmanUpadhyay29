@@ -8,7 +8,7 @@ Since May 2026 I've been building and running an automated trading platform as a
   <tr>
     <td align="center" width="25%"><h3>1,390+</h3><sub>commits since May 2026</sub></td>
     <td align="center" width="25%"><h3>4,000+</h3><sub>automated Python tests</sub></td>
-    <td align="center" width="25%"><h3>40+</h3><sub>processes on one cloud server</sub></td>
+    <td align="center" width="25%"><h3>40+</h3><sub>processes on one server</sub></td>
     <td align="center" width="25%"><h3>35+</h3><sub>strategy families tested</sub></td>
   </tr>
 </table>
