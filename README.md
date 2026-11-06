@@ -40,7 +40,6 @@ Both repos are private, so you won't see them in my repository list. I'm happy t
 
 - **Web Developer, Ethnus** (Aug to Nov 2023): built a responsive website with React, Node.js and MongoDB.
 - **Team projects** (2022 to 2023): led teams of four on a food ordering website and a ticketing website.
-- **[ToDo-List](https://github.com/AmanUpadhyay29/ToDo-List)**: task manager with a React front end and an Express REST API.
 - **[Personal Finance Dashboard](https://github.com/AmanUpadhyay29/Personal_Finance_Dashboard)**: dashboard UI in HTML and Tailwind CSS.
 
 ### Tech
@@ -81,4 +80,4 @@ Both repos are private, so you won't see them in my repository list. I'm happy t
 
 ### Get in touch
 
-[Email](mailto:amanupadhyay2905@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aman-upadhyay-16654422b/) | [Resume](https://github.com/AmanUpadhyay29/Resume/blob/main/Aman_Resume.pdf)
+[Email](mailto:amanupadhyay2905@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aman-upadhyay-16654422b/)
