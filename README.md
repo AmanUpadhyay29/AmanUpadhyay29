@@ -50,7 +50,6 @@ All three repos are private, so you won't see them in my repository list. I'm ha
 
 - **Web Developer, Ethnus** (Aug to Nov 2023): built a responsive website with React, Node.js and MongoDB.
 - **Team projects** (2022 to 2023): led teams of four on a food ordering website and a ticketing website.
-- **[Personal Finance Dashboard](https://github.com/AmanUpadhyay29/Personal_Finance_Dashboard)**: dashboard UI in HTML and Tailwind CSS.
 
 ### Tech
 
